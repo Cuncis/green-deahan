@@ -279,7 +279,7 @@
             document.getElementById('nav').classList.toggle('shadow-md', window.scrollY > 40);
         });
     </script>
-    @yield('scripts')
+    @stack('scripts')
 </body>
 
 </html>
