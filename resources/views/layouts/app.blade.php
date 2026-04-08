@@ -132,7 +132,7 @@
             font-weight: 700;
         }
 
-        @yield('styles')
+        @stack('styles')
     </style>
     @livewireStyles
 </head>
