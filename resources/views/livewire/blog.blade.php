@@ -238,7 +238,7 @@
             <div>
                 <h2 class="font-display font-black text-2xl md:text-3xl text-white mb-2">Ada Pertanyaan Seputar
                     Lapangan?</h2>
-                <p class="text-green-200 text-sm">Tim ahli kami siap bantu — konsultasi gratis, respons dalam 1 jam!</p>
+                <p class="text-green-200 text-sm">Tim ahli kami siap bantu. Konsultasi gratis, respons dalam 1 jam!</p>
             </div>
             <div class="flex flex-col sm:flex-row gap-3 flex-shrink-0">
                 <a href="https://wa.me/6281357570064" target="_blank"
@@ -323,29 +323,29 @@
                 date: '15 Maret 2025', read: '8 menit', tags: ['biaya', 'futsal', 'investasi', 'modal'],
                 ph: '📸 FOTO ARTIKEL\nIlustasi Lapangan Futsal Baru Selesai\n(800×480px)',
                 body: `
-          <h1>Berapa Modal Membangun Lapangan Futsal? Rincian Biaya Lengkap 2025</h1>
-          <p>Bisnis lapangan futsal adalah salah satu investasi yang menggiurkan di Indonesia. Permintaan tinggi, perputaran uang cepat, dan bisa balik modal dalam 1–2 tahun. Tapi berapa sebenarnya modal yang dibutuhkan?</p>
-          <h2>1. Komponen Biaya Utama</h2>
-          <ul>
-            <li><strong>Sewa/beli lahan:</strong> Tergantung lokasi. Di kota besar bisa Rp 15–50 juta/bulan untuk sewa. Beli lahan mulai Rp 300 juta – 1 miliar.</li>
-            <li><strong>Konstruksi lapangan:</strong> Rp 150 – 400 juta tergantung ukuran, material, dan fasilitas.</li>
-            <li><strong>Lantai (interlock/rumput sintetis):</strong> Rp 80 – 200 juta untuk 1 lapangan standar.</li>
-            <li><strong>Pencahayaan LED:</strong> Rp 20 – 50 juta untuk sistem lighting 1000 lux.</li>
-            <li><strong>Pagar, gawang, net:</strong> Rp 25 – 60 juta.</li>
-            <li><strong>Ruang ganti & toilet:</strong> Rp 30 – 80 juta (opsional tapi sangat disarankan).</li>
-          </ul>
-          <div class="tip-box">💡 <strong>Tips GreenDeahan:</strong> Untuk modal awal yang efisien, pilih lantai interlock yang lebih terjangkau dibanding rumput sintetis namun sama awetnya. Anda bisa upgrade nanti setelah bisnis berkembang.</div>
-          <h2>2. Total Estimasi Modal</h2>
-          <ul>
-            <li><strong>Skala kecil (tanpa beli lahan):</strong> Rp 200 – 350 juta</li>
-            <li><strong>Skala menengah (dengan fasilitas lengkap):</strong> Rp 400 – 700 juta</li>
-            <li><strong>Skala besar (kompleks multi-lapangan):</strong> Rp 800 juta – 2 miliar</li>
-          </ul>
-          <h2>3. Estimasi Balik Modal</h2>
-          <p>Dengan harga sewa per jam Rp 100.000 – 200.000 dan rata-rata 10 jam booking per hari, pendapatan bisa mencapai Rp 30 – 60 juta per bulan. Balik modal bisa dicapai dalam 12 – 24 bulan.</p>
-          <h2>4. Sistem Pembayaran GreenDeahan</h2>
-          <p>Kami memudahkan Anda dengan sistem DP di awal dan pelunasan setelah lapangan selesai 100%. Tidak perlu keluar modal besar sekaligus. Hubungi kami untuk simulasi RAB sesuai kebutuhan Anda.</p>
-        `
+                  <h1>Berapa Modal Membangun Lapangan Futsal? Rincian Biaya Lengkap 2025</h1>
+                  <p>Bisnis lapangan futsal adalah salah satu investasi yang menggiurkan di Indonesia. Permintaan tinggi, perputaran uang cepat, dan bisa balik modal dalam 1–2 tahun. Tapi berapa sebenarnya modal yang dibutuhkan?</p>
+                  <h2>1. Komponen Biaya Utama</h2>
+                  <ul>
+                    <li><strong>Sewa/beli lahan:</strong> Tergantung lokasi. Di kota besar bisa Rp 15–50 juta/bulan untuk sewa. Beli lahan mulai Rp 300 juta – 1 miliar.</li>
+                    <li><strong>Konstruksi lapangan:</strong> Rp 150 – 400 juta tergantung ukuran, material, dan fasilitas.</li>
+                    <li><strong>Lantai (interlock/rumput sintetis):</strong> Rp 80 – 200 juta untuk 1 lapangan standar.</li>
+                    <li><strong>Pencahayaan LED:</strong> Rp 20 – 50 juta untuk sistem lighting 1000 lux.</li>
+                    <li><strong>Pagar, gawang, net:</strong> Rp 25 – 60 juta.</li>
+                    <li><strong>Ruang ganti & toilet:</strong> Rp 30 – 80 juta (opsional tapi sangat disarankan).</li>
+                  </ul>
+                  <div class="tip-box">💡 <strong>Tips GreenDeahan:</strong> Untuk modal awal yang efisien, pilih lantai interlock yang lebih terjangkau dibanding rumput sintetis namun sama awetnya. Anda bisa upgrade nanti setelah bisnis berkembang.</div>
+                  <h2>2. Total Estimasi Modal</h2>
+                  <ul>
+                    <li><strong>Skala kecil (tanpa beli lahan):</strong> Rp 200 – 350 juta</li>
+                    <li><strong>Skala menengah (dengan fasilitas lengkap):</strong> Rp 400 – 700 juta</li>
+                    <li><strong>Skala besar (kompleks multi-lapangan):</strong> Rp 800 juta – 2 miliar</li>
+                  </ul>
+                  <h2>3. Estimasi Balik Modal</h2>
+                  <p>Dengan harga sewa per jam Rp 100.000 – 200.000 dan rata-rata 10 jam booking per hari, pendapatan bisa mencapai Rp 30 – 60 juta per bulan. Balik modal bisa dicapai dalam 12 – 24 bulan.</p>
+                  <h2>4. Sistem Pembayaran GreenDeahan</h2>
+                  <p>Kami memudahkan Anda dengan sistem DP di awal dan pelunasan setelah lapangan selesai 100%. Tidak perlu keluar modal besar sekaligus. Hubungi kami untuk simulasi RAB sesuai kebutuhan Anda.</p>
+                `
             },
             {
                 id: 1, cat: 'padel', catLabel: '🎾 Padel',
@@ -355,21 +355,21 @@
                 date: '8 Maret 2025', read: '6 menit', tags: ['padel', 'investasi', 'bisnis'],
                 ph: '📸 FOTO ARTIKEL\nLapangan Padel Modern / Kaca Tempered\n(700×440px)',
                 body: `
-          <h1>Mengapa Lapangan Padel Jadi Investasi Paling Menjanjikan di 2025</h1>
-          <p>Padel bukan sekadar tren sesaat. Olahraga ini sedang mengalami pertumbuhan eksplosif di Indonesia, mengikuti jejak negara-negara Amerika Latin dan Eropa di mana padel sudah menjadi olahraga rakyat.</p>
-          <h2>Kenapa Padel Booming?</h2>
-          <ul>
-            <li>Mudah dipelajari untuk semua usia, bahkan pemula bisa langsung seru bermain</li>
-            <li>Dimainkan 4 orang (doubles), sehingga lebih sosial dan ramai</li>
-            <li>Tidak terlalu menguras fisik seperti tenis, cocok untuk segala usia</li>
-            <li>Estetik dan photogenic — viral di media sosial</li>
-          </ul>
-          <h2>Potensi Bisnis Lapangan Padel</h2>
-          <p>Harga sewa lapangan padel bisa 1,5x–2x lebih mahal dari futsal biasa. Di kota besar, sewa per jam bisa mencapai Rp 150.000 – 300.000. Dengan 2 lapangan saja, pendapatan bisa Rp 50–90 juta per bulan.</p>
-          <div class="tip-box">💡 <strong>Peluang emas:</strong> Di banyak kota tier-2 Indonesia, belum ada lapangan padel sama sekali. Menjadi yang pertama di kota Anda = keunggulan kompetitif besar!</div>
-          <h2>Biaya Konstruksi Padel</h2>
-          <p>1 lapangan padel standar internasional bisa dibangun dengan investasi Rp 250 – 450 juta. Lebih mahal dari futsal, namun return-nya jauh lebih tinggi dan segmen pasarnya premium.</p>
-        `
+                  <h1>Mengapa Lapangan Padel Jadi Investasi Paling Menjanjikan di 2025</h1>
+                  <p>Padel bukan sekadar tren sesaat. Olahraga ini sedang mengalami pertumbuhan eksplosif di Indonesia, mengikuti jejak negara-negara Amerika Latin dan Eropa di mana padel sudah menjadi olahraga rakyat.</p>
+                  <h2>Kenapa Padel Booming?</h2>
+                  <ul>
+                    <li>Mudah dipelajari untuk semua usia, bahkan pemula bisa langsung seru bermain</li>
+                    <li>Dimainkan 4 orang (doubles), sehingga lebih sosial dan ramai</li>
+                    <li>Tidak terlalu menguras fisik seperti tenis, cocok untuk segala usia</li>
+                    <li>Estetik dan photogenic — viral di media sosial</li>
+                  </ul>
+                  <h2>Potensi Bisnis Lapangan Padel</h2>
+                  <p>Harga sewa lapangan padel bisa 1,5x–2x lebih mahal dari futsal biasa. Di kota besar, sewa per jam bisa mencapai Rp 150.000 – 300.000. Dengan 2 lapangan saja, pendapatan bisa Rp 50–90 juta per bulan.</p>
+                  <div class="tip-box">💡 <strong>Peluang emas:</strong> Di banyak kota tier-2 Indonesia, belum ada lapangan padel sama sekali. Menjadi yang pertama di kota Anda = keunggulan kompetitif besar!</div>
+                  <h2>Biaya Konstruksi Padel</h2>
+                  <p>1 lapangan padel standar internasional bisa dibangun dengan investasi Rp 250 – 450 juta. Lebih mahal dari futsal, namun return-nya jauh lebih tinggi dan segmen pasarnya premium.</p>
+                `
             },
             {
                 id: 2, cat: 'material', catLabel: '🧱 Material',
@@ -379,26 +379,26 @@
                 date: '1 Maret 2025', read: '7 menit', tags: ['interlock', 'rumput sintetis', 'material', 'futsal'],
                 ph: '📸 FOTO ARTIKEL\nPerbandingan Interlock vs Rumput Sintetis\n(700×440px)',
                 body: `
-          <h1>Lantai Interlock vs Rumput Sintetis: Mana yang Lebih Cocok?</h1>
-          <p>Pilihan lantai adalah keputusan paling krusial dalam membangun lapangan futsal. Dua opsi paling populer adalah lantai interlock dan rumput sintetis — keduanya punya keunggulan masing-masing.</p>
-          <h2>Lantai Interlock</h2>
-          <ul>
-            <li><strong>Harga:</strong> Lebih terjangkau, Rp 80–150 juta untuk 1 lapangan</li>
-            <li><strong>Daya tahan:</strong> 10–15 tahun dengan perawatan minimal</li>
-            <li><strong>Keunggulan:</strong> Jika satu tile rusak, bisa diganti sebagian saja</li>
-            <li><strong>Kekurangan:</strong> Kurang estetik untuk outdoor, terasa keras jika jatuh</li>
-            <li><strong>Cocok untuk:</strong> Indoor, budget terbatas, area urban padat</li>
-          </ul>
-          <h2>Rumput Sintetis</h2>
-          <ul>
-            <li><strong>Harga:</strong> Lebih mahal, Rp 130–250 juta untuk 1 lapangan</li>
-            <li><strong>Daya tahan:</strong> 5–8 tahun tergantung intensitas penggunaan</li>
-            <li><strong>Keunggulan:</strong> Estetik, nyaman, cocok outdoor, photogenic</li>
-            <li><strong>Kekurangan:</strong> Lebih mahal, perlu infill pasir silika berkala</li>
-            <li><strong>Cocok untuk:</strong> Outdoor, target pasar premium, area rekreasi</li>
-          </ul>
-          <div class="tip-box">💡 <strong>Rekomendasi GreenDeahan:</strong> Untuk bisnis pertama dengan modal terbatas → pilih interlock. Untuk lokasi outdoor atau target pasar menengah ke atas → rumput sintetis.</div>
-        `
+                  <h1>Lantai Interlock vs Rumput Sintetis: Mana yang Lebih Cocok?</h1>
+                  <p>Pilihan lantai adalah keputusan paling krusial dalam membangun lapangan futsal. Dua opsi paling populer adalah lantai interlock dan rumput sintetis — keduanya punya keunggulan masing-masing.</p>
+                  <h2>Lantai Interlock</h2>
+                  <ul>
+                    <li><strong>Harga:</strong> Lebih terjangkau, Rp 80–150 juta untuk 1 lapangan</li>
+                    <li><strong>Daya tahan:</strong> 10–15 tahun dengan perawatan minimal</li>
+                    <li><strong>Keunggulan:</strong> Jika satu tile rusak, bisa diganti sebagian saja</li>
+                    <li><strong>Kekurangan:</strong> Kurang estetik untuk outdoor, terasa keras jika jatuh</li>
+                    <li><strong>Cocok untuk:</strong> Indoor, budget terbatas, area urban padat</li>
+                  </ul>
+                  <h2>Rumput Sintetis</h2>
+                  <ul>
+                    <li><strong>Harga:</strong> Lebih mahal, Rp 130–250 juta untuk 1 lapangan</li>
+                    <li><strong>Daya tahan:</strong> 5–8 tahun tergantung intensitas penggunaan</li>
+                    <li><strong>Keunggulan:</strong> Estetik, nyaman, cocok outdoor, photogenic</li>
+                    <li><strong>Kekurangan:</strong> Lebih mahal, perlu infill pasir silika berkala</li>
+                    <li><strong>Cocok untuk:</strong> Outdoor, target pasar premium, area rekreasi</li>
+                  </ul>
+                  <div class="tip-box">💡 <strong>Rekomendasi GreenDeahan:</strong> Untuk bisnis pertama dengan modal terbatas → pilih interlock. Untuk lokasi outdoor atau target pasar menengah ke atas → rumput sintetis.</div>
+                `
             },
             {
                 id: 3, cat: 'tips', catLabel: '💡 Tips Perawatan',
@@ -408,23 +408,23 @@
                 date: '20 Feb 2025', read: '5 menit', tags: ['perawatan', 'futsal', 'tips', 'awet'],
                 ph: '📸 FOTO ARTIKEL\nProses Pembersihan / Perawatan Lapangan\n(700×440px)',
                 body: `
-          <h1>7 Cara Merawat Lapangan Futsal agar Awet Sampai 10 Tahun</h1>
-          <p>Investasi lapangan futsal bisa bertahan lama jika dirawat dengan benar. Berikut 7 tips dari tim GreenDeahan berdasarkan pengalaman 16+ tahun di lapangan.</p>
-          <h2>1. Bersihkan Secara Rutin</h2>
-          <p>Sapu atau vacuum lantai setiap hari sebelum dan sesudah jam operasional. Debu dan pasir yang menumpuk bisa menggores permukaan lantai.</p>
-          <h2>2. Larang Sepatu Non-Futsal</h2>
-          <p>Pasang aturan wajib sepatu futsal. Sepatu dengan sol keras atau berpaku bisa merusak permukaan interlock maupun rumput sintetis dengan cepat.</p>
-          <h2>3. Cek Infill Rumput Sintetis Setiap 6 Bulan</h2>
-          <p>Untuk rumput sintetis, pasir silika infill perlu ditambah setiap 6 bulan agar serat rumput tetap tegak dan permukaan tetap rata.</p>
-          <h2>4. Periksa Sambungan Tile Interlock</h2>
-          <p>Cek sambungan antar tile setiap 3 bulan. Tile yang longgar atau naik bisa menjadi risiko cedera pemain dan harus segera diperbaiki.</p>
-          <h2>5. Cat Ulang Garis Lapangan</h2>
-          <p>Garis lapangan yang pudar tidak hanya mengurangi estetika tapi juga membingungkan pemain. Cat ulang setiap 1–2 tahun dengan cat epoxy berkualitas.</p>
-          <h2>6. Perawatan Pencahayaan</h2>
-          <p>Bersihkan lampu LED dari debu setiap bulan. Lampu yang kotor bisa mengurangi intensitas cahaya hingga 30%. Ganti segera jika ada yang mati.</p>
-          <h2>7. Gunakan Jasa Servis Berkala</h2>
-          <div class="tip-box">💡 GreenDeahan menyediakan layanan maintenance berkala untuk memastikan lapangan Anda selalu dalam kondisi prima. Hubungi kami untuk paket perawatan tahunan.</div>
-        `
+                  <h1>7 Cara Merawat Lapangan Futsal agar Awet Sampai 10 Tahun</h1>
+                  <p>Investasi lapangan futsal bisa bertahan lama jika dirawat dengan benar. Berikut 7 tips dari tim GreenDeahan berdasarkan pengalaman 16+ tahun di lapangan.</p>
+                  <h2>1. Bersihkan Secara Rutin</h2>
+                  <p>Sapu atau vacuum lantai setiap hari sebelum dan sesudah jam operasional. Debu dan pasir yang menumpuk bisa menggores permukaan lantai.</p>
+                  <h2>2. Larang Sepatu Non-Futsal</h2>
+                  <p>Pasang aturan wajib sepatu futsal. Sepatu dengan sol keras atau berpaku bisa merusak permukaan interlock maupun rumput sintetis dengan cepat.</p>
+                  <h2>3. Cek Infill Rumput Sintetis Setiap 6 Bulan</h2>
+                  <p>Untuk rumput sintetis, pasir silika infill perlu ditambah setiap 6 bulan agar serat rumput tetap tegak dan permukaan tetap rata.</p>
+                  <h2>4. Periksa Sambungan Tile Interlock</h2>
+                  <p>Cek sambungan antar tile setiap 3 bulan. Tile yang longgar atau naik bisa menjadi risiko cedera pemain dan harus segera diperbaiki.</p>
+                  <h2>5. Cat Ulang Garis Lapangan</h2>
+                  <p>Garis lapangan yang pudar tidak hanya mengurangi estetika tapi juga membingungkan pemain. Cat ulang setiap 1–2 tahun dengan cat epoxy berkualitas.</p>
+                  <h2>6. Perawatan Pencahayaan</h2>
+                  <p>Bersihkan lampu LED dari debu setiap bulan. Lampu yang kotor bisa mengurangi intensitas cahaya hingga 30%. Ganti segera jika ada yang mati.</p>
+                  <h2>7. Gunakan Jasa Servis Berkala</h2>
+                  <div class="tip-box">💡 GreenDeahan menyediakan layanan maintenance berkala untuk memastikan lapangan Anda selalu dalam kondisi prima. Hubungi kami untuk paket perawatan tahunan.</div>
+                `
             },
             {
                 id: 4, cat: 'minisoccer', catLabel: '🟢 Mini Soccer',
@@ -434,34 +434,34 @@
                 date: '12 Feb 2025', read: '5 menit', tags: ['ukuran', 'mini soccer', 'standar', 'panduan'],
                 ph: '📸 FOTO ARTIKEL\nDiagram / Denah Lapangan Mini Soccer\n(700×440px)',
                 body: `
-          <h1>Ukuran Standar Lapangan Mini Soccer: Panduan Lengkap</h1>
-          <p>Membangun lapangan mini soccer yang tidak sesuai ukuran standar bisa merugikan bisnis Anda jangka panjang. Berikut panduan ukuran resmi yang kami gunakan.</p>
-          <h2>Ukuran Lapangan Mini Soccer</h2>
-          <ul>
-            <li><strong>Panjang:</strong> 30 – 45 meter</li>
-            <li><strong>Lebar:</strong> 18 – 25 meter</li>
-            <li><strong>Area penjaga gawang:</strong> 5 x 3 meter</li>
-            <li><strong>Titik penalti:</strong> 6 meter dari garis gawang</li>
-          </ul>
-          <h2>Ukuran Lahan Minimal yang Dibutuhkan</h2>
-          <p>Tambahkan 2–3 meter di setiap sisi untuk area bebas, pagar, dan jalur pemain. Total lahan minimal sekitar 35 x 25 meter untuk 1 lapangan.</p>
-          <h2>Spesifikasi Rumput Sintetis Mini Soccer</h2>
-          <ul>
-            <li>Ketebalan serat: 40–55mm</li>
-            <li>Infill: Pasir silika + rubber crumb</li>
-            <li>Ketahanan UV minimal 8 tahun</li>
-            <li>Drainase: Min. 800mm per jam</li>
-          </ul>
-          <div class="tip-box">💡 <strong>Tips:</strong> Konsultasikan ukuran lahan Anda dengan tim GreenDeahan sebelum memutuskan. Kami akan bantu optimalkan desain sesuai lahan yang tersedia.</div>
-          <h2>Fasilitas Pendukung yang Disarankan</h2>
-          <ul>
-            <li>Tribun penonton (kapasitas 50–200 orang)</li>
-            <li>Ruang ganti 2 tim</li>
-            <li>Toilet umum</li>
-            <li>Pencahayaan malam (min. 500 lux)</li>
-            <li>Area parkir</li>
-          </ul>
-        `
+                  <h1>Ukuran Standar Lapangan Mini Soccer: Panduan Lengkap</h1>
+                  <p>Membangun lapangan mini soccer yang tidak sesuai ukuran standar bisa merugikan bisnis Anda jangka panjang. Berikut panduan ukuran resmi yang kami gunakan.</p>
+                  <h2>Ukuran Lapangan Mini Soccer</h2>
+                  <ul>
+                    <li><strong>Panjang:</strong> 30 – 45 meter</li>
+                    <li><strong>Lebar:</strong> 18 – 25 meter</li>
+                    <li><strong>Area penjaga gawang:</strong> 5 x 3 meter</li>
+                    <li><strong>Titik penalti:</strong> 6 meter dari garis gawang</li>
+                  </ul>
+                  <h2>Ukuran Lahan Minimal yang Dibutuhkan</h2>
+                  <p>Tambahkan 2–3 meter di setiap sisi untuk area bebas, pagar, dan jalur pemain. Total lahan minimal sekitar 35 x 25 meter untuk 1 lapangan.</p>
+                  <h2>Spesifikasi Rumput Sintetis Mini Soccer</h2>
+                  <ul>
+                    <li>Ketebalan serat: 40–55mm</li>
+                    <li>Infill: Pasir silika + rubber crumb</li>
+                    <li>Ketahanan UV minimal 8 tahun</li>
+                    <li>Drainase: Min. 800mm per jam</li>
+                  </ul>
+                  <div class="tip-box">💡 <strong>Tips:</strong> Konsultasikan ukuran lahan Anda dengan tim GreenDeahan sebelum memutuskan. Kami akan bantu optimalkan desain sesuai lahan yang tersedia.</div>
+                  <h2>Fasilitas Pendukung yang Disarankan</h2>
+                  <ul>
+                    <li>Tribun penonton (kapasitas 50–200 orang)</li>
+                    <li>Ruang ganti 2 tim</li>
+                    <li>Toilet umum</li>
+                    <li>Pencahayaan malam (min. 500 lux)</li>
+                    <li>Area parkir</li>
+                  </ul>
+                `
             },
             {
                 id: 5, cat: 'badminton', catLabel: '🏸 Badminton',
@@ -471,25 +471,25 @@
                 date: '5 Feb 2025', read: '6 menit', tags: ['badminton', 'vinyl', 'kayu keras', 'material'],
                 ph: '📸 FOTO ARTIKEL\nLantai Vinyl Sport / Kayu Keras Badminton\n(700×440px)',
                 body: `
-          <h1>Vinyl Sport vs Kayu Keras untuk Lapangan Badminton</h1>
-          <p>Pilihan lantai sangat menentukan kenyamanan pemain dan umur lapangan badminton Anda. Mari bandingkan dua pilihan paling populer.</p>
-          <h2>Vinyl Sport</h2>
-          <ul>
-            <li><strong>Harga:</strong> Rp 120–200 juta untuk 2 court</li>
-            <li><strong>Keunggulan:</strong> Non-slip, shock absorption baik, ramah lutut, mudah dibersihkan</li>
-            <li><strong>Warna:</strong> Tersedia banyak pilihan warna dan motif</li>
-            <li><strong>Umur:</strong> 8–12 tahun</li>
-            <li><strong>Standar:</strong> Digunakan di banyak arena BWF</li>
-          </ul>
-          <h2>Kayu Keras (Hardwood)</h2>
-          <ul>
-            <li><strong>Harga:</strong> Rp 180–350 juta untuk 2 court</li>
-            <li><strong>Keunggulan:</strong> Pantulan bola lebih natural, estetik premium, tahan lama</li>
-            <li><strong>Kekurangan:</strong> Lebih mahal, perlu perawatan poles berkala, sensitif terhadap kelembapan</li>
-            <li><strong>Umur:</strong> 15–25 tahun dengan perawatan baik</li>
-          </ul>
-          <div class="tip-box">💡 <strong>Rekomendasi:</strong> Untuk bisnis skala menengah → vinyl sport lebih cost-effective. Untuk arena premium atau pelatihan atlet → kayu keras memberikan pengalaman bermain terbaik.</div>
-        `
+                  <h1>Vinyl Sport vs Kayu Keras untuk Lapangan Badminton</h1>
+                  <p>Pilihan lantai sangat menentukan kenyamanan pemain dan umur lapangan badminton Anda. Mari bandingkan dua pilihan paling populer.</p>
+                  <h2>Vinyl Sport</h2>
+                  <ul>
+                    <li><strong>Harga:</strong> Rp 120–200 juta untuk 2 court</li>
+                    <li><strong>Keunggulan:</strong> Non-slip, shock absorption baik, ramah lutut, mudah dibersihkan</li>
+                    <li><strong>Warna:</strong> Tersedia banyak pilihan warna dan motif</li>
+                    <li><strong>Umur:</strong> 8–12 tahun</li>
+                    <li><strong>Standar:</strong> Digunakan di banyak arena BWF</li>
+                  </ul>
+                  <h2>Kayu Keras (Hardwood)</h2>
+                  <ul>
+                    <li><strong>Harga:</strong> Rp 180–350 juta untuk 2 court</li>
+                    <li><strong>Keunggulan:</strong> Pantulan bola lebih natural, estetik premium, tahan lama</li>
+                    <li><strong>Kekurangan:</strong> Lebih mahal, perlu perawatan poles berkala, sensitif terhadap kelembapan</li>
+                    <li><strong>Umur:</strong> 15–25 tahun dengan perawatan baik</li>
+                  </ul>
+                  <div class="tip-box">💡 <strong>Rekomendasi:</strong> Untuk bisnis skala menengah → vinyl sport lebih cost-effective. Untuk arena premium atau pelatihan atlet → kayu keras memberikan pengalaman bermain terbaik.</div>
+                `
             },
             {
                 id: 6, cat: 'panduan', catLabel: '📚 Panduan Bisnis',
@@ -499,30 +499,30 @@
                 date: '28 Jan 2025', read: '7 menit', tags: ['investasi', 'ROI', 'bisnis', 'modal'],
                 ph: '📸 FOTO ARTIKEL\nIlustrasi Kalkulasi / Keuangan Bisnis\n(700×440px)',
                 body: `
-          <h1>Cara Hitung ROI Bisnis Lapangan Olahraga</h1>
-          <p>Sebelum memutuskan investasi, sangat penting untuk menghitung Return on Investment (ROI) agar Anda tahu kapan modal bisa kembali dan berapa keuntungan yang bisa diharapkan.</p>
-          <h2>Rumus Dasar ROI</h2>
-          <p><strong>ROI = (Pendapatan Bersih Tahunan / Total Investasi) × 100%</strong></p>
-          <h2>Contoh Kalkulasi Lapangan Futsal</h2>
-          <ul>
-            <li>Total investasi: Rp 400 juta</li>
-            <li>Harga sewa: Rp 120.000/jam</li>
-            <li>Rata-rata booking: 10 jam/hari</li>
-            <li>Pendapatan kotor: Rp 1,2 juta/hari × 30 = Rp 36 juta/bulan</li>
-            <li>Biaya operasional (listrik, gaji, perawatan): ~Rp 8 juta/bulan</li>
-            <li>Pendapatan bersih: ~Rp 28 juta/bulan = Rp 336 juta/tahun</li>
-            <li><strong>ROI: 84% per tahun → Balik modal ~14 bulan</strong></li>
-          </ul>
-          <div class="tip-box">💡 Angka ini bisa lebih cepat jika lokasi strategis atau Anda menambahkan pendapatan dari kantin, locker rental, coaching, dan membership.</div>
-          <h2>Faktor yang Mempengaruhi ROI</h2>
-          <ul>
-            <li>Lokasi lapangan (dekat permukiman, kampus, kantor)</li>
-            <li>Harga sewa yang kompetitif</li>
-            <li>Kualitas fasilitas pendukung</li>
-            <li>Strategi pemasaran (media sosial, partnership komunitas)</li>
-            <li>Jam operasional (extended hours = lebih banyak slot)</li>
-          </ul>
-        `
+                  <h1>Cara Hitung ROI Bisnis Lapangan Olahraga</h1>
+                  <p>Sebelum memutuskan investasi, sangat penting untuk menghitung Return on Investment (ROI) agar Anda tahu kapan modal bisa kembali dan berapa keuntungan yang bisa diharapkan.</p>
+                  <h2>Rumus Dasar ROI</h2>
+                  <p><strong>ROI = (Pendapatan Bersih Tahunan / Total Investasi) × 100%</strong></p>
+                  <h2>Contoh Kalkulasi Lapangan Futsal</h2>
+                  <ul>
+                    <li>Total investasi: Rp 400 juta</li>
+                    <li>Harga sewa: Rp 120.000/jam</li>
+                    <li>Rata-rata booking: 10 jam/hari</li>
+                    <li>Pendapatan kotor: Rp 1,2 juta/hari × 30 = Rp 36 juta/bulan</li>
+                    <li>Biaya operasional (listrik, gaji, perawatan): ~Rp 8 juta/bulan</li>
+                    <li>Pendapatan bersih: ~Rp 28 juta/bulan = Rp 336 juta/tahun</li>
+                    <li><strong>ROI: 84% per tahun → Balik modal ~14 bulan</strong></li>
+                  </ul>
+                  <div class="tip-box">💡 Angka ini bisa lebih cepat jika lokasi strategis atau Anda menambahkan pendapatan dari kantin, locker rental, coaching, dan membership.</div>
+                  <h2>Faktor yang Mempengaruhi ROI</h2>
+                  <ul>
+                    <li>Lokasi lapangan (dekat permukiman, kampus, kantor)</li>
+                    <li>Harga sewa yang kompetitif</li>
+                    <li>Kualitas fasilitas pendukung</li>
+                    <li>Strategi pemasaran (media sosial, partnership komunitas)</li>
+                    <li>Jam operasional (extended hours = lebih banyak slot)</li>
+                  </ul>
+                `
             },
             {
                 id: 7, cat: 'futsal', catLabel: '⚽ Futsal',
@@ -532,26 +532,26 @@
                 date: '20 Jan 2025', read: '4 menit', tags: ['futsal', 'ukuran', 'standar', 'FIFA'],
                 ph: '📸 FOTO ARTIKEL\nDenah / Blueprint Lapangan Futsal\n(700×440px)',
                 body: `
-          <h1>Ukuran Standar Lapangan Futsal Indoor & Outdoor Sesuai FIFA</h1>
-          <p>Lapangan futsal yang sesuai standar akan meningkatkan kepercayaan pelanggan dan memungkinkan Anda menggelar turnamen resmi.</p>
-          <h2>Ukuran Standar FIFA</h2>
-          <ul>
-            <li><strong>Panjang:</strong> 25–42 meter (internasional: 38–42 meter)</li>
-            <li><strong>Lebar:</strong> 15–25 meter (internasional: 18–22 meter)</li>
-            <li><strong>Area penjaga gawang:</strong> 6 meter × 3 meter</li>
-            <li><strong>Titik penalti:</strong> 6 meter dari garis gawang</li>
-            <li><strong>Titik penalti kedua:</strong> 10 meter dari garis gawang</li>
-          </ul>
-          <h2>Ukuran yang Paling Umum Dipakai di Indonesia</h2>
-          <p>Lapangan futsal komersial di Indonesia umumnya berukuran <strong>20 × 40 meter</strong> — optimal antara standar FIFA dan efisiensi lahan.</p>
-          <h2>Tips Optimasi Lahan Sempit</h2>
-          <ul>
-            <li>Lahan minimal 22 × 42 meter (sudah termasuk area bebas 1 meter per sisi)</li>
-            <li>Jika lahan lebih kecil, pertimbangkan futsal 3v3 dengan ukuran mini</li>
-            <li>Konsultasikan dengan tim GreenDeahan untuk solusi desain terbaik</li>
-          </ul>
-          <div class="tip-box">💡 Kami pernah mengoptimalkan lahan selebar 18 meter menjadi lapangan futsal yang fungsional dan nyaman. Hubungi kami untuk konsultasi desain gratis!</div>
-        `
+                  <h1>Ukuran Standar Lapangan Futsal Indoor & Outdoor Sesuai FIFA</h1>
+                  <p>Lapangan futsal yang sesuai standar akan meningkatkan kepercayaan pelanggan dan memungkinkan Anda menggelar turnamen resmi.</p>
+                  <h2>Ukuran Standar FIFA</h2>
+                  <ul>
+                    <li><strong>Panjang:</strong> 25–42 meter (internasional: 38–42 meter)</li>
+                    <li><strong>Lebar:</strong> 15–25 meter (internasional: 18–22 meter)</li>
+                    <li><strong>Area penjaga gawang:</strong> 6 meter × 3 meter</li>
+                    <li><strong>Titik penalti:</strong> 6 meter dari garis gawang</li>
+                    <li><strong>Titik penalti kedua:</strong> 10 meter dari garis gawang</li>
+                  </ul>
+                  <h2>Ukuran yang Paling Umum Dipakai di Indonesia</h2>
+                  <p>Lapangan futsal komersial di Indonesia umumnya berukuran <strong>20 × 40 meter</strong> — optimal antara standar FIFA dan efisiensi lahan.</p>
+                  <h2>Tips Optimasi Lahan Sempit</h2>
+                  <ul>
+                    <li>Lahan minimal 22 × 42 meter (sudah termasuk area bebas 1 meter per sisi)</li>
+                    <li>Jika lahan lebih kecil, pertimbangkan futsal 3v3 dengan ukuran mini</li>
+                    <li>Konsultasikan dengan tim GreenDeahan untuk solusi desain terbaik</li>
+                  </ul>
+                  <div class="tip-box">💡 Kami pernah mengoptimalkan lahan selebar 18 meter menjadi lapangan futsal yang fungsional dan nyaman. Hubungi kami untuk konsultasi desain gratis!</div>
+                `
             },
             {
                 id: 8, cat: 'tips', catLabel: '💡 Tips Perawatan',
@@ -561,28 +561,28 @@
                 date: '10 Jan 2025', read: '5 menit', tags: ['rumput sintetis', 'perawatan', 'tips'],
                 ph: '📸 FOTO ARTIKEL\nRumput Sintetis Close-Up / Brush Treatment\n(700×440px)',
                 body: `
-          <h1>Cara Merawat Rumput Sintetis agar Tidak Cepat Rusak</h1>
-          <p>Rumput sintetis yang terpasang dengan baik seharusnya bisa bertahan 6–10 tahun. Namun tanpa perawatan yang tepat, usia pakainya bisa jauh lebih pendek.</p>
-          <h2>Perawatan Harian</h2>
-          <ul>
-            <li>Sapu atau blower permukaan dari daun, debu, dan sampah</li>
-            <li>Siram dengan air bersih jika terlalu panas (terutama saat siang hari outdoor)</li>
-            <li>Periksa ada tidaknya benda tajam yang tertinggal di permukaan</li>
-          </ul>
-          <h2>Perawatan Bulanan</h2>
-          <ul>
-            <li>Brush permukaan rumput dengan sikat khusus untuk menegakkan serat yang rebah</li>
-            <li>Periksa kondisi jahitan sambungan rumput</li>
-            <li>Pastikan sistem drainase tidak tersumbat</li>
-          </ul>
-          <h2>Perawatan 6 Bulanan</h2>
-          <ul>
-            <li>Tambah infill pasir silika jika sudah berkurang</li>
-            <li>Cek kondisi underlayer (lapisan bawah rumput)</li>
-            <li>Lakukan deep cleaning dengan alat khusus</li>
-          </ul>
-          <div class="tip-box">💡 GreenDeahan menyediakan paket servis berkala rumput sintetis. Kami datang ke lokasi Anda untuk melakukan perawatan komprehensif. Tanya harga paket via WhatsApp!</div>
-        `
+                  <h1>Cara Merawat Rumput Sintetis agar Tidak Cepat Rusak</h1>
+                  <p>Rumput sintetis yang terpasang dengan baik seharusnya bisa bertahan 6–10 tahun. Namun tanpa perawatan yang tepat, usia pakainya bisa jauh lebih pendek.</p>
+                  <h2>Perawatan Harian</h2>
+                  <ul>
+                    <li>Sapu atau blower permukaan dari daun, debu, dan sampah</li>
+                    <li>Siram dengan air bersih jika terlalu panas (terutama saat siang hari outdoor)</li>
+                    <li>Periksa ada tidaknya benda tajam yang tertinggal di permukaan</li>
+                  </ul>
+                  <h2>Perawatan Bulanan</h2>
+                  <ul>
+                    <li>Brush permukaan rumput dengan sikat khusus untuk menegakkan serat yang rebah</li>
+                    <li>Periksa kondisi jahitan sambungan rumput</li>
+                    <li>Pastikan sistem drainase tidak tersumbat</li>
+                  </ul>
+                  <h2>Perawatan 6 Bulanan</h2>
+                  <ul>
+                    <li>Tambah infill pasir silika jika sudah berkurang</li>
+                    <li>Cek kondisi underlayer (lapisan bawah rumput)</li>
+                    <li>Lakukan deep cleaning dengan alat khusus</li>
+                  </ul>
+                  <div class="tip-box">💡 GreenDeahan menyediakan paket servis berkala rumput sintetis. Kami datang ke lokasi Anda untuk melakukan perawatan komprehensif. Tanya harga paket via WhatsApp!</div>
+                `
             },
             {
                 id: 9, cat: 'padel', catLabel: '🎾 Padel',
@@ -592,27 +592,27 @@
                 date: '3 Jan 2025', read: '6 menit', tags: ['padel', 'standar', 'IFF', 'ukuran'],
                 ph: '📸 FOTO ARTIKEL\nDiagram Lapangan Padel / Technical Drawing\n(700×440px)',
                 body: `
-          <h1>Spesifikasi Lapangan Padel Standar Internasional (IFF)</h1>
-          <p>Jika Anda ingin membangun lapangan padel yang bisa digunakan untuk kompetisi dan mendapat kepercayaan pemain serius, wajib mengacu pada standar IFF (International Padel Federation).</p>
-          <h2>Dimensi Lapangan</h2>
-          <ul>
-            <li><strong>Panjang:</strong> 20 meter</li>
-            <li><strong>Lebar:</strong> 10 meter</li>
-            <li><strong>Tinggi minimum:</strong> 6 meter (indoor)</li>
-            <li><strong>Tinggi kaca belakang:</strong> 3 meter</li>
-            <li><strong>Tinggi kaca samping:</strong> 3 meter (bagian belakang) + pagar metal 1 meter</li>
-          </ul>
-          <h2>Spesifikasi Material</h2>
-          <ul>
-            <li><strong>Kaca:</strong> Tempered safety glass minimum 10mm, sebaiknya 12mm</li>
-            <li><strong>Rangka:</strong> Baja galvanis atau aluminium ekstrusi anti karat</li>
-            <li><strong>Lantai:</strong> Artificial grass padel 8–12mm dengan infill silika</li>
-            <li><strong>Net:</strong> Tinggi 88cm di tengah, 92cm di sisi</li>
-          </ul>
-          <h2>Pencahayaan Standar</h2>
-          <p>Minimum 400 lux untuk penggunaan umum, 500–750 lux untuk kompetisi. Gunakan lampu LED dengan CRI (Color Rendering Index) minimum 80.</p>
-          <div class="tip-box">💡 GreenDeahan adalah spesialis lapangan padel di Indonesia. Semua proyek padel kami mengacu pada standar IFF. Konsultasi gratis untuk estimasi biaya dan desain!</div>
-        `
+                  <h1>Spesifikasi Lapangan Padel Standar Internasional (IFF)</h1>
+                  <p>Jika Anda ingin membangun lapangan padel yang bisa digunakan untuk kompetisi dan mendapat kepercayaan pemain serius, wajib mengacu pada standar IFF (International Padel Federation).</p>
+                  <h2>Dimensi Lapangan</h2>
+                  <ul>
+                    <li><strong>Panjang:</strong> 20 meter</li>
+                    <li><strong>Lebar:</strong> 10 meter</li>
+                    <li><strong>Tinggi minimum:</strong> 6 meter (indoor)</li>
+                    <li><strong>Tinggi kaca belakang:</strong> 3 meter</li>
+                    <li><strong>Tinggi kaca samping:</strong> 3 meter (bagian belakang) + pagar metal 1 meter</li>
+                  </ul>
+                  <h2>Spesifikasi Material</h2>
+                  <ul>
+                    <li><strong>Kaca:</strong> Tempered safety glass minimum 10mm, sebaiknya 12mm</li>
+                    <li><strong>Rangka:</strong> Baja galvanis atau aluminium ekstrusi anti karat</li>
+                    <li><strong>Lantai:</strong> Artificial grass padel 8–12mm dengan infill silika</li>
+                    <li><strong>Net:</strong> Tinggi 88cm di tengah, 92cm di sisi</li>
+                  </ul>
+                  <h2>Pencahayaan Standar</h2>
+                  <p>Minimum 400 lux untuk penggunaan umum, 500–750 lux untuk kompetisi. Gunakan lampu LED dengan CRI (Color Rendering Index) minimum 80.</p>
+                  <div class="tip-box">💡 GreenDeahan adalah spesialis lapangan padel di Indonesia. Semua proyek padel kami mengacu pada standar IFF. Konsultasi gratis untuk estimasi biaya dan desain!</div>
+                `
             },
         ];
 
@@ -672,34 +672,34 @@
             empty.classList.add('hidden');
 
             grid.innerHTML = filtered.map(a => `
-        <div class="blog-card bg-white border-2 border-stone-200 rounded-2xl overflow-hidden cursor-pointer" onclick="openArticle(${a.id})">
-          <div class="img-ph" style="height:180px">
-            <div class="img-ph-text" style="font-size:.62rem">${a.ph}</div>
-          </div>
-          <div class="p-5">
-            <span class="text-xs font-bold px-2.5 py-1 rounded-full border ${a.catColor} inline-block mb-3">${a.catLabel}</span>
-            <h3 class="card-title font-display font-black text-base text-stone-900 leading-tight mb-2 transition-colors">${a.title}</h3>
-            <p class="text-xs text-stone-500 leading-relaxed mb-4">${a.excerpt}</p>
-            <div class="flex items-center justify-between pt-3 border-t border-stone-100">
-              <span class="text-xs text-stone-400">📅 ${a.date} · ⏱ ${a.read}</span>
-              <span class="read-more">Baca →</span>
-            </div>
-          </div>
-        </div>
-      `).join('');
+                <div class="blog-card bg-white border-2 border-stone-200 rounded-2xl overflow-hidden cursor-pointer" onclick="openArticle(${a.id})">
+                  <div class="img-ph" style="height:180px">
+                    <div class="img-ph-text" style="font-size:.62rem">${a.ph}</div>
+                  </div>
+                  <div class="p-5">
+                    <span class="text-xs font-bold px-2.5 py-1 rounded-full border ${a.catColor} inline-block mb-3">${a.catLabel}</span>
+                    <h3 class="card-title font-display font-black text-base text-stone-900 leading-tight mb-2 transition-colors">${a.title}</h3>
+                    <p class="text-xs text-stone-500 leading-relaxed mb-4">${a.excerpt}</p>
+                    <div class="flex items-center justify-between pt-3 border-t border-stone-100">
+                      <span class="text-xs text-stone-400">📅 ${a.date} · ⏱ ${a.read}</span>
+                      <span class="read-more">Baca →</span>
+                    </div>
+                  </div>
+                </div>
+              `).join('');
         }
 
         function renderPopular() {
             const pop = [articles[0], articles[1], articles[2], articles[6]];
             document.getElementById('popular-list').innerHTML = pop.map((a, i) => `
-        <div class="flex gap-3 cursor-pointer group" onclick="openArticle(${a.id})">
-          <span class="font-display font-black text-2xl text-stone-200 leading-none flex-shrink-0">${String(i + 1).padStart(2, '0')}</span>
-          <div>
-            <p class="text-xs font-bold text-stone-800 leading-snug group-hover:text-[#006400] transition-colors line-clamp-2">${a.title}</p>
-            <p class="text-[10px] text-stone-400 mt-1">⏱ ${a.read}</p>
-          </div>
-        </div>
-      `).join('');
+                <div class="flex gap-3 cursor-pointer group" onclick="openArticle(${a.id})">
+                  <span class="font-display font-black text-2xl text-stone-200 leading-none flex-shrink-0">${String(i + 1).padStart(2, '0')}</span>
+                  <div>
+                    <p class="text-xs font-bold text-stone-800 leading-snug group-hover:text-[#006400] transition-colors line-clamp-2">${a.title}</p>
+                    <p class="text-[10px] text-stone-400 mt-1">⏱ ${a.read}</p>
+                  </div>
+                </div>
+              `).join('');
         }
 
         function renderCatSidebar() {
@@ -715,10 +715,10 @@
             document.getElementById('cat-sidebar').innerHTML = cats.map(c => {
                 const count = articles.filter(a => a.cat === c.key).length;
                 return `<button onclick="setCat('${c.key}', this)" data-cat="${c.key}"
-          class="cat-pill w-full flex items-center justify-between text-sm font-semibold px-3 py-2 rounded-xl border-2 border-stone-100 bg-[#f7f5f2] text-stone-700 text-left">
-          <span>${c.label}</span>
-          <span class="text-xs text-stone-400 font-bold">${count}</span>
-        </button>`;
+                  class="cat-pill w-full flex items-center justify-between text-sm font-semibold px-3 py-2 rounded-xl border-2 border-stone-100 bg-[#f7f5f2] text-stone-700 text-left">
+                  <span>${c.label}</span>
+                  <span class="text-xs text-stone-400 font-bold">${count}</span>
+                </button>`;
             }).join('');
         }
 

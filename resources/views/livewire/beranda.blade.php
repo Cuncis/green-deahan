@@ -17,12 +17,13 @@
                     Jasa Pembuatan Lapangan #1 Se-Indonesia</span>
                 <h1 class="font-display text-4xl md:text-5xl lg:text-6xl font-black text-stone-900 leading-tight mb-5">
                     Bangun Lapangan<br>
-                    <span class="text-[#006400]">Futsal, Mini Soccer,</span><br>
-                    Padel & Badminton<br>
+                    <span class="text-[#006400]">Futsal</span>,<span class="text-[#006400]">Mini Soccer</span>,<span
+                        class="text-[#006400]">Padel</span><br>
+                    & <span class="text-[#006400]">Badminton</span><br>
                     dari Nol — Siap Pakai!
                 </h1>
                 <p class="text-stone-500 text-base md:text-lg leading-relaxed mb-6 max-w-lg">
-                    Kami kerjakan <strong class="text-stone-800">semua dari A sampai Z</strong> — survey lokasi, desain,
+                    Kami kerjakan <strong class="text-stone-800">semua dari A sampai Z</strong>. Survey lokasi, desain,
                     perizinan, konstruksi, hingga lapangan siap beroperasi. Anda cukup duduk santai dan pantau hasilnya.
                 </p>
 
@@ -119,7 +120,7 @@
                     <div class="flex items-start justify-between mb-3">
                         <div>
                             <span
-                                class="text-xs font-bold text-[#006400] bg-green-50 px-2.5 py-1 rounded-full border border-green-200">⚽
+                                class="text-xs font-bold text-[#006400] bg-green-50 px-2.5 py-1 rounded-full border border-green-200">⭐
                                 Paling Populer</span>
                             <h3 class="font-display text-2xl font-black text-stone-900 mt-2">Lapangan Futsal</h3>
                         </div>
@@ -161,7 +162,7 @@
                     <div class="flex items-start justify-between mb-3">
                         <div>
                             <span
-                                class="text-xs font-bold text-blue-700 bg-blue-50 px-2.5 py-1 rounded-full border border-blue-200">🟢
+                                class="text-xs font-bold text-blue-700 bg-blue-50 px-2.5 py-1 rounded-full border border-blue-200">
                                 Outdoor & Indoor</span>
                             <h3 class="font-display text-2xl font-black text-stone-900 mt-2">Mini Soccer</h3>
                         </div>
@@ -203,7 +204,7 @@
                     <div class="flex items-start justify-between mb-3">
                         <div>
                             <span
-                                class="text-xs font-bold text-orange-700 bg-orange-50 px-2.5 py-1 rounded-full border border-orange-200">🎾
+                                class="text-xs font-bold text-orange-700 bg-orange-50 px-2.5 py-1 rounded-full border border-orange-200">
                                 Tren Terbaru 2024</span>
                             <h3 class="font-display text-2xl font-black text-stone-900 mt-2">Lapangan Padel</h3>
                         </div>
@@ -211,7 +212,7 @@
                     </div>
                     <p class="text-stone-500 text-sm leading-relaxed mb-4">
                         Spesialis konstruksi lapangan padel standar internasional (IFF). Dari struktur rangka baja, kaca
-                        tempered, hingga lantai artificial grass padel — semua <strong>all-in-one service</strong>.
+                        tempered, hingga lantai artificial grass padel, semua <strong>all-in-one service</strong>.
                         Olahraga padel sedang booming, investasi tepat!
                     </p>
                     <ul class="text-sm text-stone-600 space-y-1.5 mb-5">
@@ -245,19 +246,20 @@
                     <div class="flex items-start justify-between mb-3">
                         <div>
                             <span
-                                class="text-xs font-bold text-purple-700 bg-purple-50 px-2.5 py-1 rounded-full border border-purple-200">🏸
+                                class="text-xs font-bold text-purple-700 bg-purple-50 px-2.5 py-1 rounded-full border border-purple-200">
                                 Indoor Specialist</span>
                             <h3 class="font-display text-2xl font-black text-stone-900 mt-2">Lapangan Badminton</h3>
                         </div>
                         <span class="text-3xl">🏸</span>
                     </div>
                     <p class="text-stone-500 text-sm leading-relaxed mb-4">
-                        Konstruksi lapangan badminton dengan lantai <strong>vinyl sport</strong> atau <strong>kayu
+                        Konstruksi lapangan badminton dengan lantai <strong>interlock</strong> atau <strong>kayu
                             keras</strong> berkualitas. Permukaan halus, non-slip, dan ramah sendi lutut. Pencahayaan
                         LED anti-silau untuk kenyamanan bermain sepanjang hari.
                     </p>
                     <ul class="text-sm text-stone-600 space-y-1.5 mb-5">
-                        <li class="flex items-center gap-2"><span class="text-[#006400] font-bold">✓</span> Lantai vinyl
+                        <li class="flex items-center gap-2"><span class="text-[#006400] font-bold">✓</span> Lantai
+                            interlock
                             sport atau kayu keras</li>
                         <li class="flex items-center gap-2"><span class="text-[#006400] font-bold">✓</span> Non-slip &
                             ramah lutut</li>
@@ -298,7 +300,6 @@
                         class="w-14 h-14 bg-[#006400] text-white rounded-2xl flex items-center justify-center mx-auto mb-4">
                         <span class="font-display font-black text-xl">01</span>
                     </div>
-                    <div class="text-2xl mb-2">💬</div>
                     <h3 class="font-bold text-stone-900 mb-1 text-sm">Konsultasi Gratis</h3>
                     <p class="text-xs text-stone-500 leading-relaxed">Ceritakan kebutuhan, lokasi, dan budget. Tim kami
                         respon dalam 1 jam.</p>
@@ -309,7 +310,6 @@
                         class="w-14 h-14 bg-[#006400] text-white rounded-2xl flex items-center justify-center mx-auto mb-4">
                         <span class="font-display font-black text-xl">02</span>
                     </div>
-                    <div class="text-2xl mb-2">📐</div>
                     <h3 class="font-bold text-stone-900 mb-1 text-sm">Survey & Desain</h3>
                     <p class="text-xs text-stone-500 leading-relaxed">Tim kami datang ke lokasi, ukur lahan, dan buat
                         desain lapangan sesuai kebutuhan.</p>
@@ -320,7 +320,6 @@
                         class="w-14 h-14 bg-[#006400] text-white rounded-2xl flex items-center justify-center mx-auto mb-4">
                         <span class="font-display font-black text-xl">03</span>
                     </div>
-                    <div class="text-2xl mb-2">📋</div>
                     <h3 class="font-bold text-stone-900 mb-1 text-sm">Penawaran Harga</h3>
                     <p class="text-xs text-stone-500 leading-relaxed">RAB & penawaran harga detail dikirim. Transparan,
                         tanpa biaya tersembunyi.</p>
@@ -331,7 +330,6 @@
                         class="w-14 h-14 bg-[#006400] text-white rounded-2xl flex items-center justify-center mx-auto mb-4">
                         <span class="font-display font-black text-xl">04</span>
                     </div>
-                    <div class="text-2xl mb-2">🏗</div>
                     <h3 class="font-bold text-stone-900 mb-1 text-sm">Konstruksi</h3>
                     <p class="text-xs text-stone-500 leading-relaxed">Pengerjaan oleh tim ahli, tepat waktu. Anda bisa
                         pantau progress setiap hari.</p>
@@ -341,7 +339,6 @@
                         class="w-14 h-14 bg-white/20 text-white rounded-2xl flex items-center justify-center mx-auto mb-4">
                         <span class="font-display font-black text-xl">05</span>
                     </div>
-                    <div class="text-2xl mb-2">🎉</div>
                     <h3 class="font-bold mb-1 text-sm">Lapangan Siap!</h3>
                     <p class="text-xs text-green-200 leading-relaxed">Serah terima lapangan siap pakai. Pelunasan
                         setelah 100% selesai. Garansi aktif!</p>
@@ -353,7 +350,7 @@
                 <div class="text-3xl">💡</div>
                 <p class="text-sm text-stone-700 leading-relaxed">
                     <strong>Sistem Pembayaran Aman:</strong> Bayar uang muka (DP) di awal, pelunasan dilakukan
-                    <strong>setelah lapangan selesai 100%</strong>. Anda tidak perlu khawatir — kami yang menanggung
+                    <strong>setelah lapangan selesai 100%</strong>. Anda tidak perlu khawatir, kami yang menanggung
                     risiko pengerjaannya.
                 </p>
                 <a href="https://wa.me/6281357570064" target="_blank"
@@ -504,9 +501,9 @@
                                 class="w-11 h-11 bg-green-100 rounded-xl flex items-center justify-center text-xl flex-shrink-0">
                                 🏗</div>
                             <div>
-                                <h4 class="font-bold text-stone-900 mb-1">Dari Nol Sampai Jadi — Anda Santai Saja</h4>
+                                <h4 class="font-bold text-stone-900 mb-1">Dari Nol Sampai Jadi, Anda Santai Saja</h4>
                                 <p class="text-sm text-stone-500 leading-relaxed">Survey, desain, perizinan, konstruksi,
-                                    finishing — semua kami urus. Anda tidak perlu pusing koordinasi banyak kontraktor.
+                                    finishing. Semua kami urus, Anda tidak perlu pusing koordinasi banyak kontraktor.
                                 </p>
                             </div>
                         </div>
@@ -518,7 +515,7 @@
                             <div>
                                 <h4 class="font-bold text-stone-900 mb-1">Garansi Konstruksi & Material Resmi</h4>
                                 <p class="text-sm text-stone-500 leading-relaxed">Setiap proyek dilindungi garansi
-                                    resmi. Jika ada masalah setelah selesai, tim kami langsung turun tangan — tanpa
+                                    resmi. Jika ada masalah setelah selesai, tim kami langsung turun tangan, tanpa
                                     biaya tambahan.</p>
                             </div>
                         </div>
@@ -530,7 +527,7 @@
                             <div>
                                 <h4 class="font-bold text-stone-900 mb-1">Harga Transparan, Sesuai Budget Anda</h4>
                                 <p class="text-sm text-stone-500 leading-relaxed">RAB detail dikirim sebelum mulai.
-                                    Material bisa disesuaikan budget — interlock atau rumput sintetis, indoor atau
+                                    Material bisa disesuaikan budget, interlock atau rumput sintetis, indoor atau
                                     outdoor.</p>
                             </div>
                         </div>
@@ -542,7 +539,7 @@
                             <div>
                                 <h4 class="font-bold text-stone-900 mb-1">Pengerjaan Cepat & Tepat Waktu</h4>
                                 <p class="text-sm text-stone-500 leading-relaxed">Jadwal pengerjaan tertulis di kontrak.
-                                    Kami komitmen selesai tepat waktu — keterlambatan adalah tanggung jawab kami.</p>
+                                    Kami komitmen selesai tepat waktu, keterlambatan adalah tanggung jawab kami.</p>
                             </div>
                         </div>
                         <div
@@ -553,7 +550,7 @@
                             <div>
                                 <h4 class="font-bold text-stone-900 mb-1">Melayani Seluruh Indonesia</h4>
                                 <p class="text-sm text-stone-500 leading-relaxed">Tim kami siap bergerak ke mana pun
-                                    Anda butuhkan — Jawa, Sumatera, Kalimantan, Sulawesi, dan seluruh wilayah Indonesia.
+                                    Anda butuhkan Jawa, Sumatera, Kalimantan, Sulawesi, dan seluruh wilayah Indonesia.
                                 </p>
                             </div>
                         </div>
@@ -687,7 +684,7 @@
                     <div class="faq-answer px-5 text-sm text-stone-600 leading-relaxed">
                         <div class="pb-5">Ya, kami mengerjakan proyek dari nol sampai selesai. Mulai dari konsultasi
                             awal, survey lokasi, desain, perizinan, pengadaan material, konstruksi, hingga lapangan siap
-                            beroperasi. Anda tidak perlu koordinasi dengan banyak pihak — cukup hubungi kami saja.</div>
+                            beroperasi. Anda tidak perlu koordinasi dengan banyak pihak, cukup hubungi kami saja.</div>
                     </div>
                 </div>
                 <div class="faq-item bg-[#f7f5f2] border border-stone-200 rounded-xl overflow-hidden">
@@ -714,7 +711,7 @@
                     <div class="faq-answer px-5 text-sm text-stone-600 leading-relaxed">
                         <div class="pb-5">Tergantung jenis dan skala proyek: <strong>Futsal 1 lapangan</strong> sekitar
                             14–21 hari. <strong>Mini Soccer</strong> sekitar 21–30 hari. <strong>Padel</strong> sekitar
-                            14–21 hari. <strong>Badminton multi-court</strong> sekitar 21–35 hari. Jadwal tepat
+                            7 hari. <strong>Badminton multi-court</strong> sekitar 21–35 hari. Jadwal tepat
                             ditentukan saat survey dan tercantum dalam kontrak resmi.</div>
                     </div>
                 </div>
@@ -740,7 +737,7 @@
                         <div class="pb-5">Sistem pembayaran kami aman dan transparan: <strong>(1)</strong> Bayar uang
                             muka (DP) setelah sepakat di kontrak. <strong>(2)</strong> Progress payment sesuai milestone
                             pengerjaan (opsional untuk proyek besar). <strong>(3)</strong> <strong>Pelunasan dilakukan
-                                SETELAH lapangan selesai 100% dan Anda puas.</strong> Tidak ada biaya tersembunyi —
+                                SETELAH lapangan selesai 100% dan Anda puas.</strong> Tidak ada biaya tersembunyi,
                             semua sudah tertera di RAB dari awal.</div>
                     </div>
                 </div>
@@ -781,7 +778,7 @@
                     konstruksi lapangan futsal, mini soccer, padel, dan badminton dengan standar kualitas terbaik.
                 </p>
                 <p class="text-stone-600 text-sm leading-relaxed mb-6">
-                    Kami menawarkan layanan <strong>turnkey</strong> — dari konsultasi awal, desain, perizinan,
+                    Kami menawarkan layanan <strong>turnkey</strong> dari konsultasi awal, desain, perizinan,
                     konstruksi, hingga lapangan siap beroperasi. Anda cukup duduk dan pantau progress, kami yang
                     kerjakan semuanya. Material disesuaikan kebutuhan dan budget Anda.
                 </p>
