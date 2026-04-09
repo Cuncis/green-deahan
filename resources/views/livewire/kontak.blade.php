@@ -24,7 +24,7 @@
                 <span
                     class="inline-block bg-green-100 text-[#006400] text-xs font-bold px-3 py-1.5 rounded-full mb-4 tracking-wide">
                     <span class="pulse inline-block w-2 h-2 rounded-full bg-green-500 mr-1.5 align-middle"></span>
-                    Tim Kami Online — Respon dalam 1 Jam
+                    Tim Kami Online · Respon dalam 1 Jam
                 </span>
                 <h1 class="font-display font-black text-4xl md:text-5xl text-stone-900 leading-tight mb-4">
                     Hubungi <span class="text-[#006400]">Green Deahan</span><br>Kami Siap Membantu!
@@ -118,10 +118,10 @@
                 <div class="font-display font-black text-sm text-white mb-3">Jam Operasional</div>
                 <div class="space-y-1.5 w-full text-xs">
                     <div class="flex justify-between text-green-200">
-                        <span>Senin – Jumat</span><span class="font-bold text-white">06.00 – 23.00</span>
+                        <span>Senin - Jumat</span><span class="font-bold text-white">06.00 – 23.00</span>
                     </div>
                     <div class="flex justify-between text-green-200">
-                        <span>Sabtu</span><span class="font-bold text-white">06.00 – 23.00</span>
+                        <span>Sabtu</span><span class="font-bold text-white">06.00 – 21.00</span>
                     </div>
                     <div class="flex justify-between text-green-200">
                         <span>Minggu</span><span class="font-bold text-yellow-300">Konsultasi Online</span>
@@ -148,7 +148,7 @@
                             class="inline-block bg-green-100 text-[#006400] text-xs font-bold px-3 py-1.5 rounded-full mb-3 tracking-wide">📋
                             Formulir Kontak</span>
                         <h2 class="font-display font-black text-2xl text-stone-900">Kirim Pesan ke Kami</h2>
-                        <p class="text-stone-500 text-sm mt-1">Isi formulir di bawah ini — tim kami akan menghubungi
+                        <p class="text-stone-500 text-sm mt-1">Isi formulir di bawah ini, tim kami akan menghubungi
                             Anda dalam 1 jam kerja.</p>
                     </div>
 

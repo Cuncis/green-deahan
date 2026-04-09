@@ -99,7 +99,7 @@
             <div>
                 <h2 class="font-display font-black text-2xl md:text-3xl text-white mb-2">Tertarik Punya Lapangan Seperti
                     Ini?</h2>
-                <p class="text-green-200 text-sm">Konsultasi gratis dengan tim kami — respons dalam 1 jam!</p>
+                <p class="text-green-200 text-sm">Konsultasi gratis dengan tim kami, respons dalam 1 jam!</p>
             </div>
             <div class="flex flex-col sm:flex-row gap-3 flex-shrink-0">
                 <a href="https://wa.me/6281357570064?text=Halo,%20saya%20tertarik%20membangun%20lapangan%20setelah%20lihat%20galeri"
@@ -246,22 +246,22 @@
             empty.classList.add('hidden');
 
             grid.innerHTML = filteredItems.map((item, idx) => `
-                <div class="gal-item relative ${item.tall ? 'tall' : ''}" onclick="openLightbox(${idx})">
-                  <div class="img-ph" style="height:100%">
-                    <div class="img-ph-text" style="font-size:.65rem">${item.ph}</div>
-                  </div>
-                  <div class="overlay">
-                    <span class="text-white text-3xl">${item.badge.split(' ')[0]}</span>
-                    <p class="text-white font-bold text-sm px-4 text-center">${item.title}</p>
-                    <span class="text-green-200 text-xs">Klik untuk detail →</span>
-                  </div>
-                  <div class="absolute bottom-0 left-0 right-0 bg-white/95 backdrop-blur px-3 py-2">
-                    <span class="text-[10px] font-bold text-[#006400]">${item.badge}</span>
-                    <p class="text-xs font-semibold text-stone-800 leading-tight mt-0.5 truncate">${item.title}</p>
-                    <p class="text-[10px] text-stone-400 mt-0.5">📍 ${item.kota}</p>
-                  </div>
-                </div>
-              `).join('');
+                    <div class="gal-item relative ${item.tall ? 'tall' : ''}" onclick="openLightbox(${idx})">
+                      <div class="img-ph" style="height:100%">
+                        <div class="img-ph-text" style="font-size:.65rem">${item.ph}</div>
+                      </div>
+                      <div class="overlay">
+                        <span class="text-white text-3xl">${item.badge.split(' ')[0]}</span>
+                        <p class="text-white font-bold text-sm px-4 text-center">${item.title}</p>
+                        <span class="text-green-200 text-xs">Klik untuk detail →</span>
+                      </div>
+                      <div class="absolute bottom-0 left-0 right-0 bg-white/95 backdrop-blur px-3 py-2">
+                        <span class="text-[10px] font-bold text-[#006400]">${item.badge}</span>
+                        <p class="text-xs font-semibold text-stone-800 leading-tight mt-0.5 truncate">${item.title}</p>
+                        <p class="text-[10px] text-stone-400 mt-0.5">📍 ${item.kota}</p>
+                      </div>
+                    </div>
+                  `).join('');
         }
 
         // Filter
