@@ -60,10 +60,8 @@
             </div>
 
             <div class="relative">
-                <div class="img-ph rounded-2xl aspect-[4/3] shadow-2xl">
-                    <div class="img-ph-text">📸 HERO IMAGE<br>Lapangan Futsal / Mini Soccer<br>Tampak Full Lapangan
-                        Profesional<br>(800×600px)</div>
-                </div>
+                <img src="{{ asset('images/hero-img1.jpg') }}" alt="Hero Image"
+                    class="rounded-2xl aspect-[4/3] shadow-2xl w-full object-cover">
                 <div class="absolute -bottom-4 -left-4 bg-white rounded-2xl shadow-xl p-4 border border-stone-100">
                     <div class="text-2xl font-display font-black text-[#006400]">500+</div>
                     <div class="text-xs font-semibold text-stone-500">Proyek Selesai</div>
@@ -112,9 +110,9 @@
             {{-- Futsal --}}
             <div
                 class="reveal bg-white rounded-2xl border border-stone-200 overflow-hidden hover:shadow-xl hover:border-[#006400] transition-all group">
-                <div class="img-ph h-52">
-                    <div class="img-ph-text">📸 FOTO LAPANGAN FUTSAL<br>Interior / Eksterior Terbaik<br>(Disarankan:
-                        700×420px)</div>
+                <div class="h-52 overflow-hidden">
+                    <img src="{{ asset('images/futsal-img2.png') }}" alt="Lapangan Futsal"
+                        class="w-full h-full object-cover">
                 </div>
                 <div class="p-6">
                     <div class="flex items-start justify-between mb-3">
@@ -154,9 +152,9 @@
             {{-- Mini Soccer --}}
             <div class="reveal bg-white rounded-2xl border border-stone-200 overflow-hidden hover:shadow-xl hover:border-[#006400] transition-all group"
                 style="transition-delay:.08s">
-                <div class="img-ph h-52">
-                    <div class="img-ph-text">📸 FOTO LAPANGAN MINI SOCCER<br>Tampak Atas / Full Lapangan<br>(Disarankan:
-                        700×420px)</div>
+                <div class="h-52 overflow-hidden">
+                    <img src="{{ asset('images/minisoccer-img1.png') }}" alt="Lapangan Futsal"
+                        class="w-full h-full object-cover">
                 </div>
                 <div class="p-6">
                     <div class="flex items-start justify-between mb-3">
@@ -196,9 +194,9 @@
             {{-- Padel --}}
             <div class="reveal bg-white rounded-2xl border border-stone-200 overflow-hidden hover:shadow-xl hover:border-[#006400] transition-all group"
                 style="transition-delay:.16s">
-                <div class="img-ph h-52">
-                    <div class="img-ph-text">📸 FOTO LAPANGAN PADEL<br>Struktur Kaca / Full View<br>(Disarankan:
-                        700×420px)</div>
+                <div class="h-52 overflow-hidden">
+                    <img src="{{ asset('images/padel-img1.png') }}" alt="Lapangan Futsal"
+                        class="w-full h-full object-cover">
                 </div>
                 <div class="p-6">
                     <div class="flex items-start justify-between mb-3">
@@ -238,9 +236,9 @@
             {{-- Badminton --}}
             <div class="reveal bg-white rounded-2xl border border-stone-200 overflow-hidden hover:shadow-xl hover:border-[#006400] transition-all group"
                 style="transition-delay:.24s">
-                <div class="img-ph h-52">
-                    <div class="img-ph-text">📸 FOTO LAPANGAN BADMINTON<br>Tampak Dalam / Full Court<br>(Disarankan:
-                        700×420px)</div>
+                <div class="h-52 overflow-hidden">
+                    <img src="{{ asset('images/badmintoon-img1.png') }}" alt="Lapangan Futsal"
+                        class="w-full h-full object-cover">
                 </div>
                 <div class="p-6">
                     <div class="flex items-start justify-between mb-3">
@@ -404,8 +402,9 @@
         <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
             <div
                 class="reveal rounded-2xl overflow-hidden border border-stone-200 group hover:shadow-lg transition-all">
-                <div class="img-ph h-52 group-hover:scale-105 transition-transform duration-500">
-                    <div class="img-ph-text">📸 FOTO PROYEK 1<br>Futsal Indoor — Jakarta Selatan<br>(700×420px)</div>
+                <div class="h-52 overflow-hidden">
+                    <img src="{{ asset('images/futsal-img1.png') }}" alt="Futsal Indoor Jakarta Selatan"
+                        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
                 </div>
                 <div class="bg-white p-4">
                     <span class="text-xs font-bold text-[#006400]">⚽ Futsal</span>
