@@ -415,8 +415,9 @@
             </div>
             <div class="reveal rounded-2xl overflow-hidden border border-stone-200 group hover:shadow-lg transition-all"
                 style="transition-delay:.08s">
-                <div class="img-ph h-52 group-hover:scale-105 transition-transform duration-500">
-                    <div class="img-ph-text">📸 FOTO PROYEK 2<br>Mini Soccer Outdoor — Surabaya<br>(700×420px)</div>
+                <div class="h-52 overflow-hidden">
+                    <img src="{{ asset('images/minisoccer-img2.png') }}" alt="Futsal Indoor Jakarta Selatan"
+                        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
                 </div>
                 <div class="bg-white p-4">
                     <span class="text-xs font-bold text-blue-600">🟢 Mini Soccer</span>
@@ -427,8 +428,9 @@
             </div>
             <div class="reveal rounded-2xl overflow-hidden border border-stone-200 group hover:shadow-lg transition-all"
                 style="transition-delay:.16s">
-                <div class="img-ph h-52 group-hover:scale-105 transition-transform duration-500">
-                    <div class="img-ph-text">📸 FOTO PROYEK 3<br>Lapangan Padel — Medan<br>(700×420px)</div>
+                <div class="h-52 overflow-hidden">
+                    <img src="{{ asset('images/padel-img2.png') }}" alt="Futsal Indoor Jakarta Selatan"
+                        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
                 </div>
                 <div class="bg-white p-4">
                     <span class="text-xs font-bold text-orange-600">🎾 Padel</span>
@@ -557,10 +559,8 @@
                 </div>
 
                 <div class="reveal space-y-5">
-                    <div class="img-ph rounded-2xl w-full aspect-[4/3] border border-stone-200">
-                        <div class="img-ph-text">📸 FOTO TIM / WORKSHOP<br>Tim Sedang Bekerja / Foto
-                            Kantor<br>(Disarankan: 600×450px)</div>
-                    </div>
+                    <img src="{{ asset('images/hero-img2.png') }}" alt="Tim Green Deahan"
+                        class="rounded-2xl w-full aspect-[4/3] object-cover border border-stone-200">
                     {{-- trust badges --}}
                     <div class="bg-[#f7f5f2] border border-stone-200 rounded-2xl p-5">
                         <p class="text-xs font-bold text-stone-400 uppercase tracking-widest mb-4">Cakupan Wilayah
@@ -605,7 +605,7 @@
                 <div class="flex text-yellow-400 text-lg mb-4">⭐⭐⭐⭐⭐</div>
                 <p class="text-stone-700 text-sm leading-relaxed mb-5 italic">
                     "Awalnya ragu karena project dari nol, tapi GreenDeahan handle semuanya dengan profesional. Dari
-                    survey, desain, sampai finishing — hasilnya melebihi ekspektasi! Lapangan futsal saya sudah balik
+                    survey, desain, sampai finishing, hasilnya melebihi ekspektasi! Lapangan futsal saya sudah balik
                     modal dalam 8 bulan."
                 </p>
                 <div class="flex items-center gap-3 pt-4 border-t border-stone-100">
@@ -747,7 +747,7 @@
                         <span class="faq-icon text-[#006400] text-lg font-black transition-transform">+</span>
                     </button>
                     <div class="faq-answer px-5 text-sm text-stone-600 leading-relaxed">
-                        <div class="pb-5">Kami melayani seluruh Indonesia — Jabodetabek, Jawa Tengah & Timur, Sumatera,
+                        <div class="pb-5">Kami melayani seluruh Indonesia - Jabodetabek, Jawa Tengah & Timur, Sumatera,
                             Kalimantan, Sulawesi, Bali, NTB, dan wilayah lainnya. Tim lapangan kami akan bergerak ke
                             lokasi Anda. Konsultasikan dulu kebutuhan dan lokasi Anda via WhatsApp.</div>
                     </div>
