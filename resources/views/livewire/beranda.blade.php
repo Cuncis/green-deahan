@@ -403,7 +403,7 @@
             <div
                 class="reveal rounded-2xl overflow-hidden border border-stone-200 group hover:shadow-lg transition-all">
                 <div class="h-52 overflow-hidden">
-                    <img src="{{ asset('images/futsal-img1.png') }}" alt="Futsal Indoor Jakarta Selatan"
+                    <img src="{{ asset('images/futsal-img1.png') }}" alt="Futsal Arena Jakarta Selatan"
                         class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
                 </div>
                 <div class="bg-white p-4">
@@ -416,7 +416,7 @@
             <div class="reveal rounded-2xl overflow-hidden border border-stone-200 group hover:shadow-lg transition-all"
                 style="transition-delay:.08s">
                 <div class="h-52 overflow-hidden">
-                    <img src="{{ asset('images/minisoccer-img2.png') }}" alt="Futsal Indoor Jakarta Selatan"
+                    <img src="{{ asset('images/minisoccer-img2.png') }}" alt="Mini Soccer Outdoor Surabaya"
                         class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
                 </div>
                 <div class="bg-white p-4">
@@ -429,7 +429,7 @@
             <div class="reveal rounded-2xl overflow-hidden border border-stone-200 group hover:shadow-lg transition-all"
                 style="transition-delay:.16s">
                 <div class="h-52 overflow-hidden">
-                    <img src="{{ asset('images/padel-img2.png') }}" alt="Futsal Indoor Jakarta Selatan"
+                    <img src="{{ asset('images/padel-img2.png') }}" alt="Padel Premium Medan"
                         class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
                 </div>
                 <div class="bg-white p-4">
@@ -441,8 +441,9 @@
             </div>
             <div class="reveal rounded-2xl overflow-hidden border border-stone-200 group hover:shadow-lg transition-all"
                 style="transition-delay:.08s">
-                <div class="img-ph h-52 group-hover:scale-105 transition-transform duration-500">
-                    <div class="img-ph-text">📸 FOTO PROYEK 4<br>Badminton Indoor — Bandung<br>(700×420px)</div>
+                <div class="h-52 overflow-hidden">
+                    <img src="{{ asset('images/badmintoon-img2.png') }}" alt="Futsal Court Bandung"
+                        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
                 </div>
                 <div class="bg-white p-4">
                     <span class="text-xs font-bold text-purple-600">🏸 Badminton</span>
@@ -453,8 +454,9 @@
             </div>
             <div class="reveal rounded-2xl overflow-hidden border border-stone-200 group hover:shadow-lg transition-all"
                 style="transition-delay:.16s">
-                <div class="img-ph h-52 group-hover:scale-105 transition-transform duration-500">
-                    <div class="img-ph-text">📸 FOTO PROYEK 5<br>Futsal Outdoor — Makassar<br>(700×420px)</div>
+                <div class="h-52 overflow-hidden">
+                    <img src="{{ asset('images/futsal-img3.png') }}" alt="Futsal Ourdoor Makassar"
+                        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
                 </div>
                 <div class="bg-white p-4">
                     <span class="text-xs font-bold text-[#006400]">⚽ Futsal</span>
@@ -464,8 +466,9 @@
             </div>
             <div class="reveal rounded-2xl overflow-hidden border border-stone-200 group hover:shadow-lg transition-all"
                 style="transition-delay:.24s">
-                <div class="img-ph h-52 group-hover:scale-105 transition-transform duration-500">
-                    <div class="img-ph-text">📸 FOTO PROYEK 6<br>Mini Soccer Indoor — Semarang<br>(700×420px)</div>
+                <div class="h-52 overflow-hidden">
+                    <img src="{{ asset('images/minisoccer-img3.png') }}" alt="Mini Soccer Indoor Semarang"
+                        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500">
                 </div>
                 <div class="bg-white p-4">
                     <span class="text-xs font-bold text-blue-600">🟢 Mini Soccer</span>
