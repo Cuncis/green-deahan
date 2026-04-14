@@ -7,14 +7,22 @@
                     class="w-2 h-2 rounded-full bg-green-500 animate-pulse inline-block"></span> Melayani 24/7</span>
             <span>⭐ 5.0 Rating dari 100+ Klien</span>
             <span>✅ Garansi Resmi Konstruksi</span>
-            <span>🗺 Se-Indonesia Sejak 2010</span>
+            <span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20" width="18" height="12"
+                    style="display:inline;vertical-align:middle;border-radius:2px;margin-right:4px">
+                    <rect width="30" height="10" fill="#CE1126" />
+                    <rect y="10" width="30" height="10" fill="#fff" />
+                </svg> Se-Indonesia Sejak 2010</span>
         </div>
 
         <div class="grid md:grid-cols-2 gap-10 items-center pb-16">
             <div>
                 <span
                     class="inline-block bg-green-100 text-[#006400] text-xs font-bold px-3 py-1.5 rounded-full mb-5 tracking-wide">🏗
-                    Jasa Pembuatan Lapangan #1 Se-Indonesia</span>
+                    Jasa Pembuatan Lapangan #1 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20" width="16"
+                        height="11" style="display:inline;vertical-align:middle;border-radius:2px;margin-left:2px">
+                        <rect width="30" height="10" fill="#CE1126" />
+                        <rect y="10" width="30" height="10" fill="#fff" />
+                    </svg> Se-Indonesia</span>
                 <h1 class="font-display text-4xl md:text-5xl lg:text-6xl font-black text-stone-900 leading-tight mb-5">
                     Bangun Lapangan <span class="text-[#006400]">Olahraga</span><br>
                     dari Nol — Siap Pakai!
@@ -39,7 +47,11 @@
                     </div>
                     <div
                         class="flex items-center gap-2 bg-white border border-stone-200 rounded-lg px-3 py-2 text-sm font-semibold text-stone-700">
-                        🗺 Se-Indonesia
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20" width="18" height="12"
+                            style="display:inline;vertical-align:middle;border-radius:2px;margin-right:4px">
+                            <rect width="30" height="10" fill="#CE1126" />
+                            <rect y="10" width="30" height="10" fill="#fff" />
+                        </svg> Se-Indonesia
                     </div>
                 </div>
 
@@ -103,7 +115,11 @@
                     <span>🏸 Badminton</span>
                     <span>🏗 Konstruksi Profesional</span>
                     <span>✅ Garansi Resmi</span>
-                    <span>🗺 Se-Indonesia</span>
+                    <span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20" width="18" height="12"
+                            style="display:inline;vertical-align:middle;border-radius:2px;margin-right:4px">
+                            <rect width="30" height="10" fill="#CE1126" />
+                            <rect y="10" width="30" height="10" fill="#fff" />
+                        </svg> Se-Indonesia</span>
                     <span>📐 Desain Gratis</span>
                     <span>💰 Bayar Setelah Selesai</span>
                 @endforeach
