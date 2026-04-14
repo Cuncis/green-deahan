@@ -93,6 +93,22 @@
             }
         }
 
+        @keyframes float {
+
+            0%,
+            100% {
+                transform: translateY(0px) rotate(var(--bubble-rotate, 0deg));
+            }
+
+            50% {
+                transform: translateY(-8px) rotate(var(--bubble-rotate, 0deg));
+            }
+        }
+
+        .bubble-float {
+            animation: float 3s ease-in-out infinite;
+        }
+
         .faq-answer {
             max-height: 0;
             overflow: hidden;
