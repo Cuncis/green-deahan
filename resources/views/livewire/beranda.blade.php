@@ -16,10 +16,7 @@
                     class="inline-block bg-green-100 text-[#006400] text-xs font-bold px-3 py-1.5 rounded-full mb-5 tracking-wide">🏗
                     Jasa Pembuatan Lapangan #1 Se-Indonesia</span>
                 <h1 class="font-display text-4xl md:text-5xl lg:text-6xl font-black text-stone-900 leading-tight mb-5">
-                    Bangun Lapangan<br>
-                    <span class="text-[#006400]">Futsal</span>,<span class="text-[#006400]">Mini Soccer</span>,<span
-                        class="text-[#006400]">Padel</span><br>
-                    & <span class="text-[#006400]">Badminton</span><br>
+                    Bangun Lapangan <span class="text-[#006400]">Olahraga</span><br>
                     dari Nol — Siap Pakai!
                 </h1>
                 <p class="text-stone-500 text-base md:text-lg leading-relaxed mb-6 max-w-lg">
@@ -60,6 +57,23 @@
             </div>
 
             <div class="relative">
+                {{-- Sport bubbles --}}
+                <div class="absolute -top-5 left-8 bg-green-500 text-white text-xs font-bold px-3 py-2 rounded-full shadow-lg z-10 bubble-float"
+                    style="animation-delay: 0s;">
+                    ⚽ Futsal
+                </div>
+                <div class="absolute top-8 -right-5 bg-blue-500 text-white text-xs font-bold px-3 py-2 rounded-full shadow-lg z-10 bubble-float"
+                    style="animation-delay: 0.7s; --bubble-rotate: 6deg;">
+                    🟢 Mini Soccer
+                </div>
+                <div class="absolute -bottom-5 right-10 bg-amber-500 text-white text-xs font-bold px-3 py-2 rounded-full shadow-lg z-10 bubble-float"
+                    style="animation-delay: 1.3s;">
+                    🎾 Padel
+                </div>
+                <div class="absolute top-1/2 -left-5 -translate-y-1/2 bg-purple-500 text-white text-xs font-bold px-3 py-2 rounded-full shadow-lg z-10 bubble-float"
+                    style="animation-delay: 1.9s; --bubble-rotate: -6deg;">
+                    🏸 Badminton
+                </div>
                 <img src="{{ asset('images/hero-img1.jpg') }}" alt="Hero Image"
                     class="rounded-2xl aspect-[4/3] shadow-2xl w-full object-cover">
                 <div class="absolute -bottom-4 -left-4 bg-white rounded-2xl shadow-xl p-4 border border-stone-100">
