@@ -58,21 +58,25 @@
 
             <div class="relative">
                 {{-- Sport bubbles --}}
-                <div class="absolute -top-5 left-8 bg-green-500 text-white text-xs font-bold px-3 py-2 rounded-full shadow-lg z-10 bubble-float"
+                {{-- Top-left: safe from "15+ Tahun" card (top-right) --}}
+                <div class="absolute -top-7 left-10 bg-green-500 text-white text-base font-extrabold px-7 py-3 rounded-full shadow-xl z-10 bubble-float tracking-widest uppercase"
                     style="animation-delay: 0s;">
-                    ⚽ Futsal
+                    Futsal
                 </div>
-                <div class="absolute top-8 -right-5 bg-blue-500 text-white text-xs font-bold px-3 py-2 rounded-full shadow-lg z-10 bubble-float"
+                {{-- Right-middle: safe from both corner cards --}}
+                <div class="absolute top-1/2 -right-12 -translate-y-1/2 bg-blue-500 text-white text-base font-extrabold px-7 py-3 rounded-full shadow-xl z-10 bubble-float tracking-widest uppercase"
                     style="animation-delay: 0.7s; --bubble-rotate: 6deg;">
-                    🟢 Mini Soccer
+                    Mini Soccer
                 </div>
-                <div class="absolute -bottom-5 right-10 bg-amber-500 text-white text-xs font-bold px-3 py-2 rounded-full shadow-lg z-10 bubble-float"
+                {{-- Bottom-right: safe from "500+" card (bottom-left) --}}
+                <div class="absolute -bottom-7 right-10 bg-amber-500 text-white text-base font-extrabold px-7 py-3 rounded-full shadow-xl z-10 bubble-float tracking-widest uppercase"
                     style="animation-delay: 1.3s;">
-                    🎾 Padel
+                    Padel
                 </div>
-                <div class="absolute top-1/2 -left-5 -translate-y-1/2 bg-purple-500 text-white text-xs font-bold px-3 py-2 rounded-full shadow-lg z-10 bubble-float"
+                {{-- Left-middle: safe from both corner cards --}}
+                <div class="absolute top-1/3 -left-12 -translate-y-1/2 bg-purple-500 text-white text-base font-extrabold px-7 py-3 rounded-full shadow-xl z-10 bubble-float tracking-widest uppercase"
                     style="animation-delay: 1.9s; --bubble-rotate: -6deg;">
-                    🏸 Badminton
+                    Badminton
                 </div>
                 <img src="{{ asset('images/hero-img1.jpg') }}" alt="Hero Image"
                     class="rounded-2xl aspect-[4/3] shadow-2xl w-full object-cover">
